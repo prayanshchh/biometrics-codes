@@ -507,4 +507,4 @@ def compute_poincare_index(orientation_map, mask):
 
 # Usage
 results = complete_fingerprint_feature_extraction(
-   "/home/prayansh-chhablani/fingerprint-aadu.jpeg")
+   "/home/prayansh-chhablani/download.jpeg")
